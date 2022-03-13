@@ -32,11 +32,11 @@ button{
 .start:hover{
     background-color: rgb(1, 59, 1);
 }
-.stop{
+.pause{
     background-color: red;
     color:antiquewhite
 }
-.stop:hover{
+.pause:hover{
     background-color: rgb(149, 1, 1);
 }
 .reset{
@@ -47,5 +47,5 @@ button{
     background-color: rgb(139, 139, 1);
 }
 .clicked{
-    background-color: black;
+    color: red;
 }
